@@ -1,4 +1,4 @@
-﻿END-USER LICENSE AGREEMENT
+﻿END-USER LICENSE AGREEMENT FOR ACROME PRODUCTS' SOFTWARE
 
 
 THIS END-USER LICENSE AGREEMENT ("AGREEMENT") IS A LEGAL AGREEMENT BETWEEN YOU AND THE LICENSOR. 
@@ -99,3 +99,4 @@ BY INSTALLING, COPYING, OR USING THE UPDATES OF THE PRODUCT (''UPDATES''), IF AN
 
 
 22.Termination. Without prejudice to any other rights, Licensor may cancel this Agreement if you do not abide by the terms and conditions of this Agreement, in which case you must destroy all copies of the Product.
+
