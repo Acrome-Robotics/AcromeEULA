@@ -8,7 +8,11 @@ BY INSTALLING, COPYING, OR USING THE UPDATES OF THE PRODUCT (''UPDATES''), IF AN
 1. Definitions.
 As used herein, the following terms have the following meanings:
 
-1.1. “You” or “Licensee” means the end user who legally received access to use the Software and the Product in accordance with the terms and conditions set forth herein. 1.2. “Licensor” means "ACROME Robotik Mekatronik Sistemleri San. ve Tic. A.Ş". 1.3. “Software” means the computer software provided to You by Licensor in accordance with the terms and conditions set forth herein. 1.4. “Product” means and includes the Software and all related printed or electronic materials, documentation, patches and fixes that may be provided or made available to You by Licensor. 1.5. “Permitted Purpose” means the right to use the Product or any portion thereof in accordance with the terms and conditions of this Agreement solely for the internal use of the Licensee.
+1.1. “You” or “Licensee” means the end user who legally received access to use the Software and the Product in accordance with the terms and conditions set forth herein. 
+1.2. “Licensor” means "ACROME Robotik Mekatronik Sistemleri San. ve Tic. A.Ş". 
+1.3. “Software” means the computer software provided to You by Licensor in accordance with the terms and conditions set forth herein. 
+1.4. “Product” means and includes the Software and all related printed or electronic materials, documentation, patches and fixes that may be provided or made available to You by Licensor.
+1.5. “Permitted Purpose” means the right to use the Product or any portion thereof in accordance with the terms and conditions of this Agreement solely for the internal use of the Licensee.
 
 2. License Grant.
 Licensor hereby grants to You and You hereby accept a limited, revocable, non-exclusive, non-transferable, non-assignable, non-sublicenseable license (hereinafter “License”) to:
@@ -18,7 +22,17 @@ Licensor hereby grants to You and You hereby accept a limited, revocable, non-ex
 3. License Restrictions.
 The License is subject to the restrictions below. In particular, You are not allowed to:
 
-3.1. alter any copyright, trademark or patent notice in the Product; 3.2. use Developer’s trademark/s in any way and for any purpose; 3.3. include the Product or any portion thereof in any malicious, deceptive or unlawful programs; or 3.4. distribute, provide access to or otherwise make the Product (as is or modified in accordance with the terms and conditions set forth herein) available to any third party. 3.5. work around any technical limitations in the Software; 3.6. reverse engineer, decompile or disassemble the Software, except and only to the extent that this Agreement expressly permits, despite this limitation; 3.7. use any components of the Product to run applications not running on the Software; 3.8. make more copies of the Product than specified in this Agreement; 3.9. disclose or distribute the Product or any portion thereof to any third party or publish them for others to copy; 3.10. rent, lease or lend the Product and/or any developments, improvements, modifications (made by You or Developer), further updates, upgrades thereof, notwithstanding whether they are made by the Developer, Installer, Licensor or by You to any third party; or 3.11. use the Product in any other manner not expressly stated in the Permitted Purpose.
+3.1. alter any copyright, trademark or patent notice in the Product; 
+3.2. use Developer’s trademark/s in any way and for any purpose; 
+3.3. include the Product or any portion thereof in any malicious, deceptive or unlawful programs; or 
+3.4. distribute, provide access to or otherwise make the Product (as is or modified in accordance with the terms and conditions set forth herein) available to any third party. 
+3.5. work around any technical limitations in the Software; 
+3.6. reverse engineer, decompile or disassemble the Software, except and only to the extent that this Agreement expressly permits, despite this limitation; 
+3.7. use any components of the Product to run applications not running on the Software; 
+3.8. make more copies of the Product than specified in this Agreement; 
+3.9. disclose or distribute the Product or any portion thereof to any third party or publish them for others to copy; 
+3.10. rent, lease or lend the Product and/or any developments, improvements, modifications (made by You or Developer), further updates, upgrades thereof, notwithstanding whether they are made by the Developer, Installer, Licensor or by You to any third party; or 
+3.11. use the Product in any other manner not expressly stated in the Permitted Purpose.
 
 4. Geographic Restrictions.
 You are only permitted to use this Product in the geographic region indicated on the Product, if any. You should not attempt to install and activate the Software outside of that region.
