@@ -1,0 +1,100 @@
+﻿END-USER LICENSE AGREEMENT
+
+
+THIS END-USER LICENSE AGREEMENT ("AGREEMENT") IS A LEGAL AGREEMENT BETWEEN YOU AND THE LICENSOR. 
+
+
+YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT BY INSTALLING, COPYING, OR OTHERWISE USING THE PRODUCT AS SET FORTH IN THIS AGREEMENT.  IF YOU DO NOT AGREE WITH THE TERMS OF THIS AGREEMENT, YOU SHOULD NOT INSTALL OR USE THE PRODUCT. 
+
+
+BY INSTALLING, COPYING, OR USING THE UPDATES OF THE PRODUCT (''UPDATES''), IF ANY, YOU AGREE TO BE BOUND BY THE ADDITIONAL LICENSE TERMS THAT MAY ACCOMPANY SUCH UPDATES. IF YOU DO NOT AGREE TO THE ADDITIONAL LICENSE TERMS THAT ACCOMPANY SUCH UPDATES, YOU SHOULD NOT INSTALL, COPY, OR USE SUCH UPDATES.
+
+
+1.Definitions. As used herein, the following terms have the following meanings:
+
+
+1.1.“You” or “Licensee” means the end user who legally received access to use the Software and the Product in accordance with the terms and conditions set forth herein.
+1.2.“Licensor” means ACROME Robotics Inc.
+1.3.“Software” means the computer software provided to You by Licensor in accordance with the terms and conditions set forth herein.
+1.4.“Product” means and includes the Software and all related printed or electronic materials, documentation, patches and fixes that may be provided or made available to You by Licensor.
+1.5.“Permitted Purpose” means the right to use the Product or any portion thereof in accordance with the terms and conditions of this Agreement solely for the internal use of the Licensee. 
+
+
+2.License Grant. Licensor hereby grants to You and You hereby accept a limited, revocable, non-exclusive, non-transferable, non-assignable, non-sublicenseable license (hereinafter “License”) to:
+
+
+2.1.access and use the Product or any portion thereof solely for the Permitted Purpose; 
+2.2.modify and create derivative works of the Software solely for the Permitted Purpose.
+
+
+3.License Restrictions. The License is subject to the restrictions below. In particular, You are not allowed to:
+
+
+3.1.alter any copyright, trademark or patent notice in the Product;
+3.2.use Developer’s trademark/s in any way and for any purpose;
+3.3.include the Product or any portion thereof in any malicious, deceptive or unlawful programs; or
+3.4.distribute, provide access to or otherwise make the Product (as is or modified in accordance with the terms and conditions set forth herein) available to any third party.
+3.5.work around any technical limitations in the Software; 
+3.6.reverse engineer, decompile or disassemble the Software, except and only to the extent that this Agreement expressly permits, despite this limitation; 
+3.7.use any components of the Product to run applications not running on the Software; 
+3.8.make more copies of the Product than specified in this Agreement; 
+3.9.disclose or distribute the Product or any portion thereof to any third party or publish them for others to copy; 
+3.10.rent, lease or lend the Product and/or any developments, improvements, modifications (made by You or Developer), further updates, upgrades thereof, notwithstanding whether they are made by the Developer, Installer, Licensor or by You to any third party; or 
+3.11.use the Product in any other manner not expressly stated in the Permitted Purpose.
+
+
+4.Geographic Restrictions. You are only permitted to use this Product in the geographic region indicated on the Product, if any. You should not attempt to install and activate the Software outside of that region.
+
+
+5.Intellectual Property Rights. The Software, and all copies of the Software, are (a) owned by Developer and protected by applicable copyright laws and international treaty provisions, and (b) licensed only, and not sold or leased. You shall not remove or alter any copyright, patent, trademark, or other legal notices or disclaimers that exist in the Software. All rights not expressly granted to You herein are reserved to Developer.  
+
+
+6.Backup Copy. You may make one backup copy (copies) of the Software. You may use it only to reinstall the Software. 
+
+
+7.Documentation. Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
+
+
+8.Third Party Programs. The Software may contain third party programs. The license terms with those programs apply to your use of them.
+
+
+9.Limitation on and Exclusion of Damages. No Party shall be liable for consequential damages, lost profits, special, indirect or incidental damages. This limitation applies to anything related to the software, services, content on third party Internet sites, or third party programs; as well as claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law. It also applies even if repair, replacement or a refund for the Software, if any does not fully compensate you for any losses; or Licensor knew or should have known about the possibility of the damages. 
+
+
+10.Limited Warranty. If you follow the instructions and the Software is properly licensed, the Software will perform substantially as described in the Licensor’s materials that you receive in or with the Software. The limited warranty covers the software for 90 days after acquiring by you. If you receive supplements, updates, or replacement software during warranty period, they will be covered for the remainder of the warranty. 
+
+
+11.Exclusions from Warranty. This warranty does not cover problems caused by your acts (or failures to act), the acts of others, or events beyond the reasonable control of the Licensor. 
+
+
+12.Remedy for Breach of Warranty. Licensor will, at its election, either (i) repair or replace the Software at no charge, within the warranty term, or (ii) accept return of the product(s) for a refund of the amount paid, if any. The developer, Licensor or installer may also repair or replace supplements, updates and replacement software or provide a refund of the amount you paid for them, if any. These are your only remedies for breach of the limited warranty. 
+
+
+13.No other Warranties. The limited warranty is the only direct warranty from the developer, Licensor or installer. The latters give no other express warranties, guarantees or conditions and exclude implied warranties of merchantability, fitness for a particular purpose and non-infringement. 
+
+
+14.Disclaimer of Warranties. The Limited Warranty referenced herein is the only express warranty made to you and is provided in lieu of any other express warranties (if any). Except for the Limited Warranty, Licensor and its suppliers provide the Product and support services (if any) AS IS AND WITH ALL FAULTS, and hereby disclaim all other warranties and conditions, either express, implied, or statutory, including, but not limited to, any (if any) implied warranties, duties or conditions of merchantability, of fitness for a particular purpose, of accuracy or completeness of responses, of results, of workmanlike effort, of lack of viruses, and of lack of negligence, all with regard to the Product, and the provision of or failure to provide support services. ALSO, THERE IS NO WARRANTY OR CONDITION OF TITLE, QUIET ENJOYMENT, QUIET POSSESSION, AND CORRESPONDENCE TO DESCRIPTION OR NON-INFRINGEMENT.
+
+
+15.EXCLUSION OF INCIDENTAL, CONSEQUENTIAL, AND OTHER DAMAGES. IN NO EVENT SHALL LICENSOR AND/OR ITS SUPPLIERS, DISTRIBUTORS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE PRODUCT, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS AGREEMENT, EVEN IN THE EVENT OF THE FAULT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, BREACH OF CONTRACT, OR BREACH OF WARRANTY OF LICENSOR OR ANY SUPPLIER, AND EVEN IF LICENSOR OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+16.Limitation of Liability and Remedies. Notwithstanding any damages that you might incur for any reason whatsoever (including, without limitation, all damages referenced above and all direct or general damages), the entire liability of Licensor and any of its suppliers, distributors under any provision of this Agreement and your exclusive remedy for all of the foregoing (except for any remedy of repair or replacement elected by Licensor with respect to any breach of the Limited Warranty) shall be limited to the greater of the amount actually paid by you for the Product. The foregoing limitations, exclusions, and disclaimers (including Sections 9 and 10 above and as stated in the Limited Warranty) shall apply to the maximum extent permitted by applicable law, even if any remedy fails its essential purpose.
+
+
+17.Consent to use of Data. You agree that Licensor and/or its affiliates may collect and use technical information you provide as a part of support services, if any, related to the Product. Licensor agrees not to use this information in a form that personally identifies you. 
+
+
+18.Prerelease Code. The Product or any portion thereof may be identified as prerelease code ("Prerelease Code"). Such Prerelease Code may be not at the level of performance and compatibility of the final Product. The Prerelease Code may not operate correctly and may be substantially modified. The grant of license to use Prerelease Code expires upon availability of the final version (including trial version) of the Product.
+
+
+19.Update License Terms. All updates shall be considered part of the Product and subject to the terms and conditions of this Agreement. Additional license terms may accompany Updates, as defined above. By installing, copying, or otherwise using any Update, you agree to be bound by the terms accompanying each such Update. If you do not agree to the additional license terms accompanying such Updates, you should not install, copy, or otherwise use such Updates. 
+
+
+20.Entire Agreement. This Agreement (including any addendum or amendment to this Agreement) are the entire agreement between you and Licensor relating to the Product and the Support Services (if any) and they supersede all prior or contemporaneous oral or written communications, proposals, and representations with respect to the Product or any other subject matter covered by this Agreement. To the extent the terms of any Licensor policies or programs for Support Services conflict with the terms of this Agreement, the terms of this Agreement shall control.
+
+
+21.Applicable Law.  The law of the country of registration of the Licensor governs the interpretation, execution and performance of this Agreement. 
+
+
+22.Termination. Without prejudice to any other rights, Licensor may cancel this Agreement if you do not abide by the terms and conditions of this Agreement, in which case you must destroy all copies of the Product.
