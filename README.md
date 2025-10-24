@@ -9,7 +9,7 @@ BY INSTALLING, COPYING, OR USING THE UPDATES OF THE PRODUCT (''UPDATES''), IF AN
 1.Definitions. As used herein, the following terms have the following meanings:
 
 1.1.“You” or “Licensee” means the end user who legally received access to use the Software and the Product in accordance with the terms and conditions set forth herein.
-1.2.“Licensor” means ACROME Robotics Inc.
+1.2.“Licensor” means "ACROME Robotik Mekatronik Sistemleri San. ve Tic. A.Ş".
 1.3.“Software” means the computer software provided to You by Licensor in accordance with the terms and conditions set forth herein.
 1.4.“Product” means and includes the Software and all related printed or electronic materials, documentation, patches and fixes that may be provided or made available to You by Licensor.
 1.5.“Permitted Purpose” means the right to use the Product or any portion thereof in accordance with the terms and conditions of this Agreement solely for the internal use of the Licensee. 
